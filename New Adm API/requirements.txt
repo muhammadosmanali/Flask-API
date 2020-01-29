@@ -1,0 +1,12 @@
+requests
+marshmallow
+Flask
+Flask-RESTful
+Flask-JWT-Extended
+Flask-SQLAlchemy
+Flask-Marshmallow
+marshmallow-sqlalchemy
+uwsgi
+Flask-Uploads
+Flask-Cors
+python-dotenv
